@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "BMMusic",
+  "short_name": "BMMusic",
+  "description": "Your world. Your sound. Putar lagu dan podcast favorit Anda langsung dari browser, gratis.",
+  "lang": "id",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "categories": [
+    "music",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "./BMMusic-Favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./BMMusic-Favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
