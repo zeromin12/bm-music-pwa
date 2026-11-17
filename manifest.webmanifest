@@ -1,12 +1,12 @@
 {
-  "id": "/",
+  "id": "https://bmmusic.my.id/",
   "name": "BMMusic",
   "short_name": "BMMusic",
   "description": "Your world. Your sound. Putar lagu dan podcast favorit Anda langsung dari browser, gratis.",
   "lang": "id",
   "dir": "ltr",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "https://bmmusic.my.id/",
+  "scope": "https://bmmusic.my.id/",
   "display": "standalone",
   "display_override": [
     "standalone",
